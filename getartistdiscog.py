@@ -12,7 +12,7 @@ from datetime import datetime
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-
+#
 #This script:
 # 1) Retrieves albums of an artist
 # 2) sorts them by release date
